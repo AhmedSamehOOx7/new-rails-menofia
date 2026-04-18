@@ -54,5 +54,9 @@
           bin/rails
           bin/rake
          bin/rubocop
-           bin/setup
+         bin/setup
           bin/thrust
+
+          .kamal/
+          Gemfile.lock
+          bin/
