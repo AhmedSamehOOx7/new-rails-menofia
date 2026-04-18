@@ -56,7 +56,3 @@
          bin/rubocop
          bin/setup
           bin/thrust
-
-          .kamal/
-          Gemfile.lock
-          bin/
